@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sense+</string>
+    <string name="btn">button</string>
+
+    <!--header-->
+    <string name="btOn">Tap the bottom of the screen to turn on Bluetooth</string>
+    <string name="search">Searching device</string>
+    <string name="pairing">Pairing device</string>
+    <string name="go">Tap the bottom of the screen to activate sensor</string>
+    <string name="stop">Tap the bottom of the screen to deactivate sensor</string>
+    <string name="goClear">You are clear to go</string>
+
+    <!--tap button-->
+    <string name="tapRecord">Press to Speak</string>
+    <string name="tapBtOn">Tap to turn on Bluetooth</string>
+    <string name="btBtScan">Scanning and pairing to bluetooth device</string>
+    <string name="tapGo">Tap to activate sensor</string>
+    <string name="tapStop">Tap to deactivate sensor</string>
+
+</resources>
